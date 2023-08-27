@@ -1,0 +1,3 @@
+[submodule "asset/boostrap"]
+	path = asset/boostrap
+	url = git@github.com:devopsabbo/boostrap.git
