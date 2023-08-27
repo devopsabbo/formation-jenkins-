@@ -1,4 +1,4 @@
 #!/bin/bash 
 
-echo "Le premier teste de jenkins sur git"
+echo "Le premier teste de jenkins sur github"
 
